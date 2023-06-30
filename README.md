@@ -1,1 +1,1 @@
-# probability_for_ml_notebooks
+# Probability for ML notebooks
