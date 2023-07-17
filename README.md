@@ -2,7 +2,7 @@
 
 These are notebooks accompanying Youtube shorts & videos. The shorts explain Machine Learning(ML) and probability concepts (required for ML) in under a minute
 
-### Machine Learning
+### Machine Learning (ML)
 
 
 
