@@ -23,8 +23,8 @@ These are notebooks accompanying Youtube shorts & videos. The shorts explain Mac
 ### Probability for ML
 
 #### Shorts
-- [We already know key concept of Probability-1](https://youtube.com/shorts/-njxgtsUUHM?feature=share)
-- [We already know key concept of Probability-2](https://youtube.com/shorts/P5RYIaLBvxg?feature=share)
+- [We already know key concepts of Probability-1](https://youtube.com/shorts/-njxgtsUUHM?feature=share)
+- [We already know key concepts of Probability-2](https://youtube.com/shorts/P5RYIaLBvxg?feature=share)
 - [A less known fact about computing averages](https://youtube.com/shorts/EQgqIqY3fPk?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/ProbForML_1.ipynb)
 - [Why is more data better for machine learing?](https://youtube.com/shorts/gYtRtTPfne0?feature=share)
 - [Entropy in Physics & Information theory](https://www.youtube.com/shorts/F9YkjKoT2lw)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/EntropyInPhysicsAndInformationTheory.ipynb)
