@@ -8,7 +8,7 @@ These are notebooks accompanying Youtube shorts & videos. The shorts explain Mac
 
 
 #### Shorts
-- [What is Machine learning?](https://youtube.com/shorts/qvmrsomzv54?feature=share)
+- [What is Machine Learning?](https://youtube.com/shorts/qvmrsomzv54?feature=share)
 - [Neural nets explained without Calculus-Part 1](https://youtube.com/shorts/7Fbah_9Xni0?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/MLToyModel_arith.ipynb)
 - [Neural nets explained without Calculus-Part 2](https://youtube.com/shorts/jbaXWmERhNs?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/MLToyModel_arith.ipynb)
 
