@@ -1,4 +1,4 @@
-### ML notebooks accompanying Youtube shorts and videos
+### Machine Learning notebooks accompanying Youtube shorts and videos
 
 These are notebooks accompanying Youtube shorts & videos. The shorts explain Machine Learning(ML) and probability concepts (required for ML) in under a minute
 
