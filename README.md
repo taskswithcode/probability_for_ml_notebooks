@@ -24,7 +24,7 @@ These are notebooks accompanying Youtube shorts. The shorts explain Machine Lear
 - [A less known fact about computing averages](https://youtube.com/shorts/EQgqIqY3fPk?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/ProbForML_1.ipynb)
 - [Why is more data better for machine learing?](https://youtube.com/shorts/gYtRtTPfne0?feature=share)
 
-##### Entropy
+##### Entropy and its use in ML
 - [Entropy in Physics & Information theory](https://www.youtube.com/shorts/F9YkjKoT2lw)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/EntropyInPhysicsAndInformationTheory.ipynb)
 - [What is Entropy?](https://youtube.com/shorts/WeX7omQomh0?feature=share)
 - [Entropy of an event](https://youtube.com/shorts/_NYONpUzg5A?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/ProbForML_2.ipynb)
