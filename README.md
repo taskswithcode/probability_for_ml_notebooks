@@ -1,6 +1,8 @@
 ### Machine Learning notebooks accompanying Youtube shorts
 
-Machine Learning(ML) concepts explained in under a minute. No prerequisite other than basic arithmetic. All concepts required from machine learning is explained
+Machine Learning(ML) concepts explained in under a minute. 
+
+_No prerequisite other than basic high school math - all other concepts required for machine learning are explained_
 
 ### Machine Learning (ML)
 
@@ -8,6 +10,8 @@ Machine Learning(ML) concepts explained in under a minute. No prerequisite other
 - [What is Machine Learning?](https://youtube.com/shorts/qvmrsomzv54?feature=share)
 - [Neural nets explained without Calculus-Part 1](https://youtube.com/shorts/7Fbah_9Xni0?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/MLToyModel_arith.ipynb)
 - [Neural nets explained without Calculus-Part 2](https://youtube.com/shorts/jbaXWmERhNs?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/MLToyModel_arith.ipynb)
+- The guts of any neural net model (coming soon)
+- How does a large nueural net learn? (coming soon)
 
 
 
@@ -18,6 +22,7 @@ Machine Learning(ML) concepts explained in under a minute. No prerequisite other
 - [We already know key concepts of Probability-2](https://youtube.com/shorts/P5RYIaLBvxg?feature=share)
 - [A less known fact about computing averages](https://youtube.com/shorts/EQgqIqY3fPk?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/ProbForML_1.ipynb)
 - [Why is more data better for machine learing?](https://youtube.com/shorts/gYtRtTPfne0?feature=share)
+- Few statistical tools essential to get an intuition of data (coming soon)
 
 #### Entropy - its use in ML
 - [What is Entropy?](https://youtube.com/shorts/WeX7omQomh0?feature=share)
@@ -30,11 +35,11 @@ Machine Learning(ML) concepts explained in under a minute. No prerequisite other
 
 ### Calculus for ML
 #### Introduction
-- Functions and Derivatives (coming soon)
+- Derivatives (coming soon)
 
 ### Linear Algebra for ML
 #### Introduction
-- Scalars, vectors, matrics, and tensors (coming soon)
+- Scalars, vectors, matrices, and tensors (coming soon)
   
 
 
