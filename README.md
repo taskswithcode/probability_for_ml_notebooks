@@ -11,7 +11,7 @@ _No prerequisite other than basic high school math - all other concepts required
 - [Neural nets explained without Calculus-Part 1](https://youtube.com/shorts/7Fbah_9Xni0?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/MLToyModel_arith.ipynb)
 - [Neural nets explained without Calculus-Part 2](https://youtube.com/shorts/jbaXWmERhNs?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/MLToyModel_arith.ipynb)
 - [What is a neural net learning?](https://youtube.com/shorts/PTDB_JRxWTc?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/MLEssence.ipynb)
-- How does a large nueural net learn? (coming soon)
+- [How does a large nueural net learn? Part 1](https://youtube.com/shorts/nOCLVk-Xe0o?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/MLKnobs.ipynb)
 
 
 
