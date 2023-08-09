@@ -23,7 +23,7 @@ _No prerequisite other than basic high school math - all other concepts required
 #### Introduction
 - [We already know key concepts of Probability-1](https://youtube.com/shorts/-njxgtsUUHM?feature=share)
 - [We already know key concepts of Probability-2](https://youtube.com/shorts/P5RYIaLBvxg?feature=share)
-- [A less known fact about computing averages](https://youtube.com/shorts/EQgqIqY3fPk?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/ProbForML_1.ipynb)
+- [A less known fact about computing averages](https://youtube.com/shorts/EQgqIqY3fPk?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/probability_for_ml_notebooks/blob/main/ProbForML_1.ipynb) [![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/QuFo_jWrbyE)
 - [Why is more data better for machine learing?](https://youtube.com/shorts/gYtRtTPfne0?feature=share)
 - Few statistical tools essential to get an intuition of data (coming soon)
 
