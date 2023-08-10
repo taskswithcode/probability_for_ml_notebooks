@@ -1,8 +1,12 @@
-### Machine Learning notebooks accompanying Youtube shorts
+### Introduction to Machine Learning _(no prerequisite† )_
 
-Machine Learning(ML) concepts explained in under a minute. 
+An approach to understand any concept in three steps
+ 1.  Youtube/Tiktok short explaining a concept in under a minute
+ 2.  Code walkthrough video of a Notebook implementing the concept
+ 3.  Hands-on learning by tinkering with the Notebook
 
-_No prerequisite other than basic high school math - all other concepts required for machine learning are explained_
+_† No prerequisite other than basic high school math - all other concepts required for machine learning are explained_
+
 
 ### Machine Learning (ML)
 
